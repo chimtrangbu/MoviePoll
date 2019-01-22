@@ -78,3 +78,11 @@ Step 5: Writing and processing form:
 Step 6: Customize look and feels:
 
 - Learn how to serve static file in Django, add simple background image and css file to the project.
+
+## Bonus
+Notions: html, css, static file, and django
+
+## Make the Poll more beauty with HTML & CSS
+Just make our Movie Poll more beauty. Try leaning some basic HTML & CSS by your self and applied it to your Poll.
+
+![Ex](https://i.imgur.com/87Wfy0I.gif)
