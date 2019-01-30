@@ -38,7 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'moviepoll.apps.MoviePollConfig'
+    'rest_framework',
+    'webapp',
+    'moviepoll.apps.MoviePollConfig',
 ]
 
 MIDDLEWARE = [
